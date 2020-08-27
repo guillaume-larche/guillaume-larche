@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ROS**
 
-- 👯 I’m collaborating on [on other privates projects](https://gitlab.com/InstitutMaupertuis)
+- 👯 I’m collaborating [on other privates projects](https://gitlab.com/InstitutMaupertuis)
 
 - 📫 How to reach me **larche.g@free.fr**
 
