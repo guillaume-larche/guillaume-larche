@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
 <h3 align="center">An engineer specialised in electronics and computer engineering.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guillaume-larche" alt="guillaume-larche" /> </p>
+
 - 🔭 I’m currently working on [ROS Additive manufacturing](https://gitlab.com/InstitutMaupertuis/ros_additive_manufacturing)
 
 - 🌱 I’m currently learning **ROS**
 
-- 👯 I’m looking to collaborate on [other privates projects](https://gitlab.com/InstitutMaupertuis)
+- 👯 I’m collaborating on [on other privates projects](https://gitlab.com/InstitutMaupertuis)
 
 - 📫 How to reach me **larche.g@free.fr**
 
